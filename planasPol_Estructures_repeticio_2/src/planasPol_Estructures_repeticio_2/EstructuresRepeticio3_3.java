@@ -16,7 +16,7 @@ public class EstructuresRepeticio3_3 {
         int nums = in.nextInt();
         
         
-        
+        // Pol trabajaaaaaaaaaaaaaaaaaa
         while (contador != 4) {
         	if (contador == 0) {
         		if (nums >=1 & nums <=127) {
